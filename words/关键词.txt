@@ -1,0 +1,4 @@
+mariaDB MySQL数据库 SQL Server数据库 Oracle数据库 Postgresql数据库 Mongodb数据库 Redis数据库 Hbase数据库
+接口的幂等性
+分布式
+事务
